@@ -326,3 +326,5 @@ function geoMagFactory(wmm) {
 		return {dec: dec, dip: dip, ti: ti, bh: bh, bx: bx, by: by, bz: bz, lat: glat, lon: glon, gv: gv, epoch: epoch};
 	};
 }
+
+module.exports = geoMagFactory;

@@ -30,3 +30,5 @@ function cof2Obj(cof) {
 
 	return {epoch: epoch, model: model, modelDate: modelDate, wmm: wmm};
 }
+
+module.exports = cof2Obj;

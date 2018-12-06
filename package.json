@@ -1,0 +1,8 @@
+{
+  "name": "geomagJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/D-Y-Innovations/geomagJS.git",
+  "author": "xray <hexulei@dyinnovations.com>",
+  "license": "GNU Lesser General Public License v3.0"
+}
